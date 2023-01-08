@@ -32,12 +32,12 @@
       <span></span>
       <span></span>
     </div>
-    <script src="js/greetings.js"></script>
-    <script src="js/clock.js"></script>
-    <script src="js/quotes.js"></script>
-    <script src="js/background.js"></script>
-    <script src="js/todo.js"></script>
-    <script src="js/weather.js"></script>
+    <script src="momentum/js/greetings.js"></script>
+    <script src="momentum/js/clock.js"></script>
+    <script src="momentum/js/quotes.js"></script>
+    <script src="momentum/js/background.js"></script>
+    <script src="momentum/js/todo.js"></script>
+    <script src="momentum/js/weather.js"></script>
     <h1 id="greeting" class="hidden"></h1>
 </body>
 </html>
