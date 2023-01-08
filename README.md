@@ -1,1 +1,0 @@
-# minggichae.github.io
